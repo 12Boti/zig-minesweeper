@@ -1,0 +1,1 @@
+./bs/build.sh $@ && echo "$(tput setaf 2)running...$(tput sgr 0)" && ./out/main.exe
